@@ -1,6 +1,24 @@
 .todos {
   display: flex;
-  justify-content: space-evenly;
-  width: 90%;
-  flex-wrap: wrap;
+  width: 47.5%;
+  flex-direction: column;
+  padding: 15px;
+  background-color: rgb(4, 179, 120);
+}
+
+.container {
+  display: flex;
+  width: 95%;
+  margin-top: 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.todos__heading {
+  font-size: 30px;
+  color: white;
+}
+
+.completed {
+  background-color: rgb(230, 68, 68);
 }
