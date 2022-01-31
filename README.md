@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Learning Type Script by building this todo app
+Live site at https://ts-taskify.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
